@@ -3,8 +3,13 @@
 # Metis - Team 5 Members:
 - Chuck Cao https://github.com/cttlc2u
 - Chris Chan https://github.com/chan-chris/Metis_proj1.git
-- Humza Khan
+- Humza Khan https://github.com/humzakhan94
 - Joshua Banks https://github.com/jmailman/Metis_proj1.git
+
+# File Locations:
+- Presentations: /presentations/mta_women_tech_gala (4).h_black.pptx/pdf
+- Programs: /pgms/ < .ipynb files with team member initials>
+- Individual readme for programs: /pgms/ < .txt files with team member initials>
 
 # Description
 <p>Karrine and Dahlia from WTWY International have tasked us with using New York City's Metropolitan Transportation Authority subway data to help optimize the placement of their street teams. Their objective is to gather the most signatures, with a preference to target those who will attend their annual summer gala and contribute to their cause.</p>
