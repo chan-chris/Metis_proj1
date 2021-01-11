@@ -1,7 +1,7 @@
 # Project 1: Women Tech Women Yes! (WTWY) Exploratory Data Analysis
 
 # Metis - Team 5 Members:
-- Chuck Cao
+- Chuck Cao https://github.com/cttlc2u
 - Chris Chan https://github.com/chan-chris/Metis_proj1.git
 - Humza Khan
 - Joshua Banks https://github.com/jmailman/Metis_proj1.git
