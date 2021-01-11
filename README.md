@@ -1,5 +1,10 @@
 # Project 1: Women Tech Women Yes! (WTWY) Exploratory Data Analysis
 
+# Metis - Team 5 Members:
+- Chuck Cao
+- Chris Chan https://github.com/chan-chris/Metis_proj1.git
+- Humza Khan
+- Joshua Banks https://github.com/jmailman/Metis_proj1.git
 
 # Description
 <p>Karrine and Dahlia from WTWY International have tasked us with using New York City's Metropolitan Transportation Authority subway data to help optimize the placement of their street teams. Their objective is to gather the most signatures, with a preference to target those who will attend their annual summer gala and contribute to their cause.</p>
